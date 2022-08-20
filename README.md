@@ -1,8 +1,9 @@
 # Book-Inventory
 ## Features
 ## Admin Side
+     
+- <a href="#" title="#" style="background-color:#FFFFFF;color:#000000;text-decoration:none">Login Page</a>
 
-    - Login Page
         The page where the system admin or staff submit their system credential to access the data and functionalities of the admin side of the system.
     - Home Page
         The page where the system admin or staff will be redirected by default when logging into the system. The page display also a simple summary for some list of data on the database.
