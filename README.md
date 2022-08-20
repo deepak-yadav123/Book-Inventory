@@ -1,6 +1,6 @@
 # Book-Inventory
-##Features
-##Admin Side
+# Features
+# Admin Side
 
     Login Page
         The page where the system admin or staff submit their system credential to access the data and functionalities of the admin side of the system.
@@ -17,7 +17,7 @@
     Users Page
         The page where the system admin manages the list of clothing store management system users.​​​​​​​
 
-##Users Side
+## Users Side
 
     Home Page
         The page where the customer will be redirected by default when browsing the website. This page also displays the books.
