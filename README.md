@@ -1,10 +1,10 @@
 # Book-Inventory
-# Features
-# Admin Side
+## Features
+## Admin Side
 
-    Login Page
+    - Login Page
         The page where the system admin or staff submit their system credential to access the data and functionalities of the admin side of the system.
-    Home Page
+    - Home Page
         The page where the system admin or staff will be redirected by default when logging into the system. The page display also a simple summary for some list of data on the database.
     Categories Page
         The page where the categories are listed and managed.
